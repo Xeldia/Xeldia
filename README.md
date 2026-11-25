@@ -2,8 +2,8 @@
 
 <a href="https://andre-codilla-portfolio.vercel.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="Andre Codilla: full-stack developer and IT student at CIT-U, seeking a software developer internship (OJT)" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.png">
+    <img src="assets/banner-light-v2.png" alt="Andre Codilla: full-stack developer and IT student at CIT-U, seeking a software developer internship (OJT)" width="100%">
   </picture>
 </a>
 
