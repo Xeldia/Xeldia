@@ -38,7 +38,7 @@ A campus-only ridesharing platform for verified students: real-time ride request
 
 A platform for learning Java and Python by writing and running real code in the browser. My part: **hardening the online code runner** with execution limits and tests, rewriting the README and tidying the repository, and redesigning the interface around one central hover and motion system.
 
-`Django 5.2` `Gunicorn` `WhiteNoise` `Node WebSocket Java executor` `Supabase Postgres` `Docker` `Render` · [Code (demo branch)](https://github.com/Xeldia/SQAE_CodeIT/tree/CodeIT_Demo) · [Team repo](https://github.com/rkSp4/CodeIT)
+`Django 5.2` `Gunicorn` `WhiteNoise` `Node WebSocket Java executor` `Supabase Postgres` `Docker` `Render` · [Code (demo branch)](https://github.com/Xeldia/SQAE_CodeIT/tree/CodeIT_Demo)
 
 ## Tech I work with
 
