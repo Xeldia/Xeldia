@@ -1,70 +1,72 @@
-<h1 align="center">Andre Josef A. Codilla</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-stack developer</b> · IT student at Cebu Institute of Technology – University<br>
-  I turn everyday human tasks into working software.
+<a href="https://andre-codilla-portfolio.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" alt="Andre Codilla: full-stack developer and IT student at CIT-U, seeking a software developer internship (OJT)" width="100%">
+  </picture>
+</a>
+
+<p>
+  <b>Full-stack developer building apps with React, TypeScript and Supabase,<br>now seeking a software developer internship (OJT).</b>
 </p>
 
-<p align="center">
-  <a href="https://andre-codilla-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-andre--codilla--portfolio.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.credly.com/users/andre-codilla"><img alt="Credly badges" src="https://img.shields.io/badge/Credly-My%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge">
+<p>
+  <a href="https://andre-codilla-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.credly.com/users/andre-codilla">Credly badges</a> &nbsp;·&nbsp;
+  <a href="mailto:andrecodilla03@gmail.com">Email</a>
 </p>
 
----
+</div>
 
 ## About
 
-I started with C, fell for Java, and kept going: Python, Django, then React, TypeScript and Supabase. I like turning my own ideas into things that actually run, and I'm usually the one who steps up first on a team. I plan big, then break the work into small steps and build my way up to it.
+I am an IT student at Cebu Institute of Technology – University, looking for a software developer internship (OJT). I build full-stack applications with React, TypeScript, Node, Django and Supabase. My projects include Gallus, a farm management app I lead, Uni-Lift, a campus ridesharing web app, and CodeIT, a learn-to-code platform. I break large problems into small steps and work well in a team.
 
 ## Featured projects
 
-### Gallus · Farm management app
-*Creator and lead developer · May 2026 – present*
+<a href="https://andre-codilla-portfolio.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/gallus-dark.png">
+    <img src="assets/gallus-light.png" alt="Gallus: a farm management app for layer-hen farms. Creator and lead developer. React, TypeScript, Capacitor, Tauri, Rust, SQLite, Supabase." width="100%">
+  </picture>
+</a>
 
-A farm management app for layer-hen farms. Owners and staff track flocks, daily egg and mortality records, feed use and inventory from **Android, web and a Windows desktop app**. It builds reports for feed per tray and per dozen eggs (with CSV export), queues records offline and syncs when the connection returns, and raises heat alerts from local weather.
+<a href="https://xeldia.github.io/Uni-Lift/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/unilift-dark.png">
+    <img src="assets/unilift-light.png" alt="Uni-Lift: a campus-only ridesharing platform for verified students. Solo developer. React 19, Vite, Tailwind, Leaflet, framer-motion, Supabase." width="100%">
+  </picture>
+</a>
 
-`React` `TypeScript` `Vite` `Capacitor` `Tauri` `Rust` `Node` `SQLite` `Supabase` · [See it in my portfolio](https://andre-codilla-portfolio.vercel.app)
+<a href="https://github.com/Xeldia/SQAE_CodeIT/tree/CodeIT_Demo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/codeit-dark.png">
+    <img src="assets/codeit-light.png" alt="CodeIT: a platform for learning Java and Python by running real code in the browser. Team of 3. Django, Docker, Supabase Postgres, Render." width="100%">
+  </picture>
+</a>
 
-### Uni-Lift · Campus rides web app
-*Solo developer · Feb 2026 – Aug 2026*
-
-A campus-only ridesharing platform for verified students: real-time ride requests, a campus map, fare negotiation, in-app chat, ratings, an SOS button and an admin console. Light and dark themes, built to work well on phones, with a read-only live demo deployed through GitHub Actions.
-
-`React 19` `Vite` `Tailwind v4` `react-router` `framer-motion` `Leaflet` `Supabase` · [Live demo](https://xeldia.github.io/Uni-Lift/) · [Code](https://github.com/Xeldia/Uni-Lift)
-
-### CodeIT · Learn-to-code platform
-*Team project, 3 developers · Oct 2025 – Apr 2026*
-
-A platform for learning Java and Python by writing and running real code in the browser. My part: **hardening the online code runner** with execution limits and tests, rewriting the README and tidying the repository, and redesigning the interface around one central hover and motion system.
-
-`Django 5.2` `Gunicorn` `WhiteNoise` `Node WebSocket Java executor` `Supabase Postgres` `Docker` `Render` · [Code (demo branch)](https://github.com/Xeldia/SQAE_CodeIT/tree/CodeIT_Demo)
+<sub>Click a card: Gallus opens my portfolio, Uni-Lift opens its live demo, CodeIT opens the code. Uni-Lift's source is at [Xeldia/Uni-Lift](https://github.com/Xeldia/Uni-Lift).</sub>
 
 ## Tech I work with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.png">
+  <img src="assets/tech-light.png" alt="TypeScript, JavaScript, Python, Java, Kotlin, C++, Rust, SQL, React, Node, Django, Supabase, Docker, AWS, HTML, CSS" width="100%">
+</picture>
 
 ## Certifications and badges
 
 - **IBM SkillsBuild** · Cybersecurity Fundamentals, Artificial Intelligence Fundamentals
-- **AWS Academy Graduate** · Cloud Foundations, Generative AI Foundations, Cloud Architecting
+- **AWS Academy Graduate** (training badges) · Cloud Foundations, Generative AI Foundations, Cloud Architecting
 
 All verified on [Credly](https://www.credly.com/users/andre-codilla).
 
-## Get in touch
+## Let's talk
 
-I'm open to work. The fastest way to reach me is through my [portfolio](https://andre-codilla-portfolio.vercel.app).
+<a href="https://andre-codilla-portfolio.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.png">
+    <img src="assets/contact-light.png" alt="Let's talk. Email andrecodilla03@gmail.com, GitHub Xeldia, portfolio andre-codilla-portfolio.vercel.app, Credly andre-codilla. Scan the QR code for my portfolio." width="100%">
+  </picture>
+</a>
